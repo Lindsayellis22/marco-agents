@@ -147,6 +147,36 @@
 
 `salesforce` `营销` `归因` `utm跟踪` `pardot`
 
+---
+
+### [Salesforce 管道预测器](https://lobechat.com/discover/assistant/salesforce-pipeline-forecaster)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+销售运营战略家分析管道健康、预测准确性、阶段速度和赢率模式，以改善收入预测和可预测性。
+
+`salesforce` `销售运营` `预测` `管道管理` `收入运营`
+
+---
+
+### [Salesforce 收入智能分析师](https://lobechat.com/discover/assistant/salesforce-revenue-intelligence-analyst)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+执行级别的收入分析师，提供关于收入趋势、账户价值模式、交易健康、管道预测和增长机会的战略见解，以供高层决策。
+
+`salesforce` `revenue-ops` `executive-analytics` `forecasting` `strategic-planning`
+
+---
+
+### [Salesforce 销售绩效教练](https://lobechat.com/discover/assistant/salesforce-sales-performance-coach)
+
+<sup>By **[@OuterBox](https://outerboxai.com)** on **2025-02-18**</sup>
+
+跨职能销售分析师，评估销售代表在潜在客户转换、联系人参与和机会执行方面的表现，以识别顶尖表现者和指导机会。
+
+`salesforce` `销售绩效` `指导` `销售运营` `分析`
+
  <!-- AWESOME PROMPTS -->
 
 ## 🛳 自主托管
